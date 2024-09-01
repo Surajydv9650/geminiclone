@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geminiclone/static/css/main.aeeea238.css",
+    "main.js": "/geminiclone/static/js/main.9f07e846.js",
+    "static/media/user_icon.png": "/geminiclone/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/gallery_icon.png": "/geminiclone/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/geminiclone/index.html",
+    "main.aeeea238.css.map": "/geminiclone/static/css/main.aeeea238.css.map",
+    "main.9f07e846.js.map": "/geminiclone/static/js/main.9f07e846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeeea238.css",
+    "static/js/main.9f07e846.js"
+  ]
+}
